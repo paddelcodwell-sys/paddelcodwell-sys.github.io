@@ -5,24 +5,20 @@
 ---
 
 ## PLA
-```diff
-- red - NONE  
-- orange - NONE  
-! yellow - ~300g  
-! green - ~275g  
-- pink - NONE  
-- purple - NONE  
-- blue - NONE  
-- brown - NONE  
-+ black - over 3KG
+🔴 red - NONE  
+🔴 orange - NONE  
+🟠 yellow - ~300g  
+🟠 green - ~275g  
+🔴 pink - NONE  
+🔴 purple - NONE  
+🔴 blue - NONE  
+🔴 brown - NONE  
+🟢 black - over 3KG
 
-! there is only sparkle blue - ~300g
+## PLA (sparkle)
+🟠 there is only sparkle blue - ~300g
 
-+ black(PETG) - 1KG
+## OTHER
+🟢 black(PETG) - 1KG
 
-## PLA
-- red: ![](https://img.shields.io/badge/NONE-red)
-- orange: ![](https://img.shields.io/badge/NONE-red)
-- yellow: ![](https://img.shields.io/badge/~300g-orange)
-- green: ![](https://img.shields.io/badge/~275g-orange)
-- black: ![](https://img.shields.io/badge/over_3KG-brightgreen)
+> Note: Green = >500g, yellow = 500 and below, red = none (0g).
