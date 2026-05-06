@@ -1,4 +1,4 @@
-# Cool ah website to see my filament supply
+# Cool ah website to see filament supply
 
 ## yeah ik you wanted to see my microplastic supply (le printer)
 
@@ -9,6 +9,8 @@ the thing u want printed (either description OR link on printables.com)
 ur name unless email makes it obvious
 
 > if i dont know your ah irl im not printing you stuff (or use whatsapp either works)
+
+[Next thing goes here
 
 ## PLA
 🔴 red - NONE  
