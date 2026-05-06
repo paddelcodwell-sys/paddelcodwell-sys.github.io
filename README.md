@@ -20,3 +20,9 @@
 
 + black(PETG) - 1KG
 
+## PLA
+- red: ![](https://img.shields.io/badge/NONE-red)
+- orange: ![](https://img.shields.io/badge/NONE-red)
+- yellow: ![](https://img.shields.io/badge/~300g-orange)
+- green: ![](https://img.shields.io/badge/~275g-orange)
+- black: ![](https://img.shields.io/badge/over_3KG-brightgreen)
