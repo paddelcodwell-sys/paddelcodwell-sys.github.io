@@ -3,6 +3,12 @@
 ## yeah ik you wanted to see my microplastic supply (le printer)
 
 ---
+Email paddelcodwell+prnt@gmail.com with-
+
+the thing u want printed (either description OR link on printables.com)
+ur name unless email makes it obvious
+
+> if i dont know your ah irl im not printing you stuff (or use whatsapp either works)
 
 ## PLA
 🔴 red - NONE  
